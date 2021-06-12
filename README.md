@@ -10,11 +10,11 @@ You can choose to SKIP a fight as well. Your scored is measured by the money you
 
 ## Table of Contents
 
-|                                         |                                                               |                                                    |
-| :-------------------------------------: | :-----------------------------------------------------------: | :------------------------------------------------: |
-|   [Project Introduction](#Run-Buddy)    |            [Table of Contents](#table-of-contents)            | [Development Highlights](#development-hightlights) |
-|         [Deployment](#deployed)         | [Description of Page Building](#Description-of-Page-Building) |       [Code Hightlights](#code-hightlights)        |
-| [Technologies Used](#Technologies-Used) |                      [Credits](#Credits)                      |                [License](#License)                 |
+|                                           |                                                               |                                                   |
+| :---------------------------------------: | :-----------------------------------------------------------: | :-----------------------------------------------: |
+| [Project Introduction](#Robot-Gladiators) |            [Table of Contents](#table-of-contents)            | [Development Highlights](#development-highlights) |
+|          [Deployment](#deployed)          | [Description of Page Building](#Description-of-Page-Building) |       [Code Hightlights](#code-highlights)        |
+|  [Technologies Used](#Technologies-Used)  |                      [Credits](#Credits)                      |                [License](#License)                |
 
 ## Development Highlights
 
